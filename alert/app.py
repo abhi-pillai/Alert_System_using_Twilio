@@ -11,7 +11,7 @@ auth_token=os.getenv("auth_token")
 client = Client(account_sid, auth_token)
 
 
-PDF_PATH = "D:\Project_HeartAttackPrediction&AlertSystem\Survey Paper\Results_project_new.pdf"
+PDF_PATH = "Your_Report.pdf"
 TOKEN_EXPIRY_SECONDS = 300  # 5 minutes
 
 # ----------------------------------------
